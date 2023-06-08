@@ -1,2 +1,2 @@
 #!/bin/bash
-mv (!(capt)) /tmp/u
+mv (!(capt) /tmp/u
