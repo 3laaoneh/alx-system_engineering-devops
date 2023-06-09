@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod olla hello
+chmod olleh hello
+chmod --reference=olleh hello
