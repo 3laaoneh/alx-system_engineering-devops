@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo -e "hello,\tworld" 
+=======
+
+
+>>>>>>> 0d060793b85ae7175337e5cc11374609ce4621fd
