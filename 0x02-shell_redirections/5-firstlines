@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 head -n 10 /etc/passwd
+=======
+head -n 10 etc/passwd
+>>>>>>> 50e70e9415bfbd0275ac46d4eec876dab98cf692
